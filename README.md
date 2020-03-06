@@ -1,5 +1,4 @@
-# Name
-Statistic Calculator
+# STATISTIC CALCULATOR
 
 ## Description
 Simple Statistic Calculator, with different functions. Auto arrangement of ungrouped data, Mean, Median, Mode, and Standard Deviation
